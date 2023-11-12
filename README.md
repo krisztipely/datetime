@@ -32,4 +32,4 @@ Modify the format template in the `strftime` method to customize the printed out
 
 ## License
 
-MIT 2023, Krisztina-Ronkainen Lakner
+[MIT](https://github.com/krisztipely/datetime/blob/master/LICENSE) 2023, Krisztina-Ronkainen Lakner
